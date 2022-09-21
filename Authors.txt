@@ -53,7 +53,7 @@
 "Born": "12 December 1981",
 "Status": "Alive",
 "Book Name": "The Test Of Mt Life",
-"Link": "https://g.co/kgs/2EJd3D"
+"Link": "https://g.co/kgs/2EJd3D",
 
 
  "id": "9",
@@ -62,3 +62,11 @@
  "Status": "Alive (age 47 years)",
  "Book Name": "Girl in Room 105",
  "Link": "https://www.amazon.in/dp/1542040469/ref=cm_sw_r_apan_glt_fabc_Q19J7MPXWGNYKEP4P1AX?_encoding=UTF8&psc=1",
+ 
+ 
+  "id": "10",
+ "Author": "A P J Abdul kalam",
+ "Born": "15 octomber 1931",
+ "Status": "deied at 27 july 2015",
+ "Book Name": "wings of fire",
+ "Link": " https://indianpdf.com/wings-of-fire-book-pdf/"
